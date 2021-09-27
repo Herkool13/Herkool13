@@ -6,4 +6,4 @@
 I creating performant solutions and exploring new tools and technologies.</P>
 <p>Some of my favourite things are react.js, django, and Linux. 
 When I'm not coding you can find me Watching movies, Walking,Learning philosophy, or listening to padcast.</p>
-<p>Find out more about me on my <a href="https://matinghaedi.ir/" target="_blank">website</a> where you can read my blog posts and discover some of my projects.<
+<p>You can read my blog posts and find out more about me in <a href="https://matinghaedi.ir/" target="_blank">my website</a>.😉</p>
